@@ -1,0 +1,7 @@
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\obj\Debug\Ex1Lab1.csprojAssemblyReference.cache
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\obj\Debug\Ex1Lab1.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\bin\Debug\Ex1Lab1.exe.config
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\bin\Debug\Ex1Lab1.exe
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\bin\Debug\Ex1Lab1.pdb
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\obj\Debug\Ex1Lab1.exe
+C:\Users\anonymous\Desktop\c#_p\Ex1Lab1\Ex1Lab1\obj\Debug\Ex1Lab1.pdb
